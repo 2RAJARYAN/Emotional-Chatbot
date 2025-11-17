@@ -30,7 +30,8 @@ This repository contains:
 ---
 
 ## 📂 Repository Structure
-
+- GoEmotion (Traning Script to Fine Tune RoBERTa on GoEmotion Dataset)
+- SST-2 (Hyper Parameter Tuning Script For BERT Family)
 
 ---
 
@@ -123,13 +124,12 @@ Detected emotions: sadness (0.82), confusion (0.41)
 
 Prompt sent to LLaMA:
 
-
-
 You are an empathetic assistant. Use the user's detected emotions to adjust tone.
 Conversation history:
 ...
 Respond to the latest user message.
 
+REPO LINK : [ChatBot WebApp](https://github.com/2RAJARYAN/EmotionalChat_web)
 
 ---
 
